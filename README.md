@@ -1,4 +1,4 @@
-# <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="content-type" name="viewport" content="text/html; charset=utf-8;width=device-width, initial-scale=1.0" />
